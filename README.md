@@ -1,2 +1,2 @@
-# email-validation
-Small Code of email validation using JavaScript 
+# Email Validation
+Small Code of regex email validation using JavaScript, HTML and CSS
